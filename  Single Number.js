@@ -3,7 +3,6 @@ var singleNumber = function(nums) {
     for (let num of nums) {
         result ^= num;
     }
-    return result;
 };
 
 
