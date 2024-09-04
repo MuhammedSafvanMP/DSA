@@ -12,4 +12,3 @@ var scoreOfString = function(s) {
 
  console.log(scoreOfString(s));
  
- 3110. Score of a String
